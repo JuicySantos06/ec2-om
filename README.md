@@ -1,4 +1,4 @@
-Automatically install Ops Manager on ec2
+Automatically install MongoDB Ops Manager on EC2
 ========================================
 
 This creates 4 VMs in EC2:
@@ -25,7 +25,7 @@ Prerequisites
   * Security group that allows all outbound communication and inbound for ports 8080 and 27017
 
 
-HOWTO
+How To
 -----
 
 Create a file called config.sh containing:
